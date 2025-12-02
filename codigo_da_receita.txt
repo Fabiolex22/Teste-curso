@@ -1,1 +1,3 @@
 print"codigo da Receita"
+
+Lidando com Conflitos.
